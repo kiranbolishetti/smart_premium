@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1756208208349
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1756208208349
+metrics: null
+model_id: m-d0bc6377caa1469bb71c2b0de6e45b68
+name: Random Forest_Model
+params: null
+run_id: ffaa638b28de47c2abc8e93d8416c50c
+run_link: null
+source: models:/m-d0bc6377caa1469bb71c2b0de6e45b68
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Kiran%20Kumar/Desktop/Smart_Premium/mlruns/0/models/m-d0bc6377caa1469bb71c2b0de6e45b68/artifacts
+user_id: null
+version: 5

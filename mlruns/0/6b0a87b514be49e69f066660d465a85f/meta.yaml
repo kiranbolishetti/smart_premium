@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Kiran%20Kumar/Desktop/Smart_Premium/mlruns/0/6b0a87b514be49e69f066660d465a85f/artifacts
+end_time: 1756206819645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b0a87b514be49e69f066660d465a85f
+run_name: XGBoost_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756206815218
+status: 3
+tags: []
+user_id: Kiran Kumar

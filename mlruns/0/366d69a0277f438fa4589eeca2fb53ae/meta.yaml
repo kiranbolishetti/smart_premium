@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Kiran%20Kumar/Desktop/Smart_Premium/mlruns/0/366d69a0277f438fa4589eeca2fb53ae/artifacts
+end_time: 1756206815205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366d69a0277f438fa4589eeca2fb53ae
+run_name: Random Forest_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756206810601
+status: 3
+tags: []
+user_id: Kiran Kumar

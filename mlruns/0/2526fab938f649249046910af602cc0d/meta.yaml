@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Kiran%20Kumar/Desktop/Smart_Premium/mlruns/0/2526fab938f649249046910af602cc0d/artifacts
+end_time: 1756208204871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2526fab938f649249046910af602cc0d
+run_name: Linear Regression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756208201511
+status: 3
+tags: []
+user_id: Kiran Kumar

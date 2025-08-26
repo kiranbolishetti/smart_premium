@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1756201587541
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1756201587541
+metrics: null
+model_id: m-d5a997e496cf4bf281c9828670ce65a2
+name: Linear Regression_Model
+params: null
+run_id: bbc55b5274884753b576887eb9406af4
+run_link: null
+source: models:/m-d5a997e496cf4bf281c9828670ce65a2
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Kiran%20Kumar/Desktop/Smart_Premium/mlruns/0/models/m-d5a997e496cf4bf281c9828670ce65a2/artifacts
+user_id: null
+version: 1

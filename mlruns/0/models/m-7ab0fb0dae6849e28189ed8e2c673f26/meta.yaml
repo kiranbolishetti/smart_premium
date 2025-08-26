@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Kiran%20Kumar/Desktop/Smart_Premium/mlruns/0/models/m-7ab0fb0dae6849e28189ed8e2c673f26/artifacts
+creation_timestamp: 1756206417447
+experiment_id: '0'
+last_updated_timestamp: 1756206423080
+model_id: m-7ab0fb0dae6849e28189ed8e2c673f26
+model_type: null
+name: model
+source_run_id: e45c5f6e52444606aec3fdc4d0add6da
+status: 2
+status_message: null
